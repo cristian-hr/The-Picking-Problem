@@ -1,7 +1,7 @@
 ﻿# The-Picking-Problem
 ## To run the tests
 * Clone the repository
-* Install the dependencis
+* Install the dependencies
 ```
 npm install
 ```
